@@ -12,5 +12,5 @@ fn main() {
         .collect();
 
     // Combined values
-    println!("{}", s.to_lowercase());
+    print!("{}", s.to_lowercase());
 }
